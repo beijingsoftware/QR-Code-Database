@@ -1,4 +1,4 @@
-# QR Code Link Tracking
+# QR Code Database
 
 This is a Google Apps Script project that generates QR codes for links submitted via a Google Form and sends them to the user's email. It logs successful and failed scans in a Vault.gs database
 
